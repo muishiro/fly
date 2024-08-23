@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_URL="YOUR_DOTFILES_REPO_URL"
+REPO_URL="https://github.com/muishiro/fly-dotfiles.git"
 
 # Function to display usage
 usage() {
@@ -99,7 +99,7 @@ summary | tee -a "$log_file"
 log_message "Installation process completed."
 
 
-
+# Configuration
 # Ask the user if they want to clone the dotfiles repository
 read -p "Do you want to clone your default dotfiles repository? (y/n) " response
 
