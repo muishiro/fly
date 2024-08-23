@@ -1,0 +1,20 @@
+# What does the options in the software selection menu of the debian installer means ?
+https://forums.debian.net/viewtopic.php?t=128850
+
+# What is software-properties-common ? 
+https://askubuntu.com/questions/1000118/what-is-software-properties-common
+
+# Debian minimal I3 install 
+https://gist.github.com/pmcfernandes/871f663307b82f119f967599041ef5db
+
+# Great I3 setup with debian 11
+https://github.com/drewgrif/i3gaps-debian/tree/main
+
+# Another great i3 minimal setup with debian 12
+https://github.com/drewgrif/bookworm-scripts
+
+# Linux display managers list and setup
+https://www.baeldung.com/linux/display-managers-install-uninstall
+
+# Overview of bash scripting
+https://learnxinyminutes.com/docs/bash/

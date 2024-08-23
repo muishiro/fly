@@ -1,0 +1,63 @@
+# Display Server
+# xorg
+
+# Audio
+# pulseaudio
+# pavucontrol
+# alsa-utils
+
+# Libraries
+build-essential
+libpam0g-dev
+libxcb-xkb-dev
+libx11-dev
+libxft-dev
+libxinerama-dev
+libnotify-bin
+
+# Window Manager and Related
+i3
+i3status
+rofi
+fonts-recommended
+network-manager
+network-manager-gnome
+brightnessctl
+feh
+redshift
+dunst
+scrot
+acpi
+acpid
+
+# Terminal
+alacritty
+tmux
+zsh
+neovim
+
+# File Manager
+thunar
+thunar-volman
+gvfs-backends
+
+# Web Browser
+firefox-esr
+
+# Useful Tools
+git
+curl
+wget
+ripgrep
+htop
+xclip
+uuid
+
+# Additional Utilities
+xdg-utils
+lxappearance
+arandr
+picom
+
+# Optional (remove if not needed)
+breeze-icon-theme
